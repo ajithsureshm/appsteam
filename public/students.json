@@ -1,0 +1,29 @@
+{
+    "students":[
+        {
+            "name":"aji",
+            "id":1,
+            "dob":"12/04/2000",
+            
+            "malayalam":"88",
+             "english":"60",
+             "hindi":"61",
+             "maths":"45"
+
+            
+        },
+
+        {
+            "name":"adi",
+            "id":2,
+            "DOB":"13/04/2000",
+            
+            "malayalam":"90",
+             "english":"60",
+             "hindi":"62",
+             "maths":"55"
+
+            
+        }
+    ]
+}
